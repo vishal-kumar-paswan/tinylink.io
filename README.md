@@ -6,4 +6,4 @@
 
 ## Mobile
 
-<img src="https://imgur.com/HqFsrLB.png" width = "210"><img src="https://imgur.com/jz1Adpe.png" width = "210">
+<img src="https://imgur.com/HqFsrLB.png" width = "210"> <img src="https://imgur.com/jz1Adpe.png" width = "210">
